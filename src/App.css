@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-body-dark {
+  background-color: #282c34;
+  color: white;
+}
+
+.bg-body-light {
+  background-color: white;
+  color: black;
+}
